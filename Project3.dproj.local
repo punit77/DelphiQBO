@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/21 19:00:38.000.507,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/10/22 03:36:12.000.139,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/11/04 15:12:21.000.731,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/12/19 14:22:19.000.815,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/12/19 14:29:22.000.350,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\QBAccessToken\Unit3.pas</Transaction>
+    <Transaction>2022/12/19 14:29:22.000.350,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\QBAccessToken\Unit3.dfm</Transaction>
+    <Transaction>2022/12/19 15:50:46.000.944,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/12/19 15:51:11.000.167,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit4.dfm=D:\QBAccessToken\Unit4.dfm</Transaction>
+    <Transaction>2022/12/19 15:51:11.000.167,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit4.pas=D:\QBAccessToken\Unit4.pas</Transaction>
+    <Transaction>2022/12/19 16:06:46.000.142,D:\QBAccessToken\Unit4.pas=</Transaction>
+    <Transaction>2022/12/19 20:16:55.000.902,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project3.dproj=D:\QBAccessToken\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
